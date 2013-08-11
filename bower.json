@@ -1,14 +1,14 @@
 {
   "name": "ov-switch-btn",
   "version": "1.0.0",
+  "main": [
+    "ovSwitchBtn.js",
+    "deps/class.js"
+  ],
   "dependencies": {
     "angular": "~1.0.7",
     "jquery": "~1.9.1",
     "bootstrap": "2.3.2",
     "bootstrap-switch": "latest"
-  },
-  "devDependencies": {
-    "angular-mocks": "~1.0.7",
-    "angular-scenario": "~1.0.7"
   }
 }
